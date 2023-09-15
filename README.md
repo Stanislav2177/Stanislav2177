@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student<br>🌱 I’m currently learning Java and Spring<br>💬 Contact me at stanislav2177@gmail.com<br>
+🔭 I’m currently a student<br>🌱 Specialized in backend development using the Spring framework<br>💬 Contact me at stanislav2177@gmail.com<br>
 
 
 # 💻 Tech Stack:
