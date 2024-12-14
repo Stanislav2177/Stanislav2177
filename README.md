@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student<br>🌱 Specialized in backend development using the Spring framework<br>💬 Contact me at stanislav2177@gmail.com<br>
+🔭 Working as Software Developer<br>🌱 Specialized in backend development using the Spring framework and .NET. Learning JS/CSS/HTML<br>💬 Contact me at stanislav2177@gmail.com<br>
 
 
 # 💻 Tech Stack:
